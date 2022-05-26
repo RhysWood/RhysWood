@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Pro-Bone-O 🐶
-- 🌱 I’m currently learning React, Redux Prisma
+- 🌱 I’m currently learning React, Redux & Prisma
 - 🤔 I’m looking for help with finding Junior Web Developer Roles
 
 
