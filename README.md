@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on meetgoat.com
-- 🌱 I’m currently learning PHP + Craft cms
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I drove a 2-stroke rickshaw up the length of India!
 
