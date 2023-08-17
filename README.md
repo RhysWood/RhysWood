@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on rhyswood.ca
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on vesselpackaging.com/orders
+- 🌱 I’m currently learning AWS lambda
 - 😄 Pronouns: He/Him
 
 - 📍Location: Vancouver, BC
