@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on vesselpackaging.com/orders
-- 🌱 I’m currently learning AWS lambda
+- 🌱 I’m currently learning Angular
 - 😄 Pronouns: He/Him
 
 - 📍Location: Vancouver, BC
