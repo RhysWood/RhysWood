@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ordercans.tricorbraun.ca/
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
 - 😄 Pronouns: He/Him
 
 - 📍Location: Vancouver, BC
