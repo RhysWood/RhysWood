@@ -25,12 +25,12 @@
     │                                                                            │
     │    > whoami                                                                │
     │                                                                            │
-    │    ┌──────────────────────────────────────────────────────────────────┐   │
-    │    │  Name:      Rhys Wood                                            │   │
-    │    │  Location:  Vancouver, BC                                        │   │
-    │    │  Role:      Full-Stack Developer @ TricorBraun                   │   │
-    │    │  Focus:     Next.js | ASP.NET | React                            │   │
-    │    └──────────────────────────────────────────────────────────────────┘   │
+    │    ┌──────────────────────────────────────────────────────────────────┐    │
+    │    │  Name:      Rhys Wood                                            │    │
+    │    │  Location:  Vancouver, BC                                        │    │
+    │    │  Role:      Full-Stack Developer @ TricorBraun                   │    │
+    │    │  Focus:     Next.js | ASP.NET | React                            │    │
+    │    └──────────────────────────────────────────────────────────────────┘    │
     │                                                                            │
     │    > cat fun_fact.txt                                                      │
     │    I drove a 2-stroke rickshaw up the length of India!                     │
@@ -43,19 +43,19 @@
 ```
     ╔══════════════════════════════════════════════════════════════════════════╗
     ║                                                                          ║
-    ║   ┌────────────────────────────────────────────────────────────────┐    ║
-    ║   │                                                                │    ║
-    ║   │   ████████╗██████╗      ██████╗ █████╗ ███╗   ██╗███████╗     │    ║
-    ║   │   ╚══██╔══╝██╔══██╗    ██╔════╝██╔══██╗████╗  ██║██╔════╝     │    ║
-    ║   │      ██║   ██████╔╝    ██║     ███████║██╔██╗ ██║███████╗     │    ║
-    ║   │      ██║   ██╔══██╗    ██║     ██╔══██║██║╚██╗██║╚════██║     │    ║
-    ║   │      ██║   ██████╔╝    ╚██████╗██║  ██║██║ ╚████║███████║     │    ║
-    ║   │      ╚═╝   ╚═════╝      ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝     │    ║
-    ║   │                                                                │    ║
-    ║   │   ordercans.tricorbraun.ca                                     │    ║
-    ║   │   Order management system for packaging solutions              │    ║
-    ║   │                                                                │    ║
-    ║   └────────────────────────────────────────────────────────────────┘    ║
+    ║   ┌────────────────────────────────────────────────────────────────┐     ║
+    ║   │                                                                │     ║
+    ║   │   ████████╗██████╗      ██████╗ █████╗ ███╗   ██╗███████╗      │     ║
+    ║   │   ╚══██╔══╝██╔══██╗    ██╔════╝██╔══██╗████╗  ██║██╔════╝      │     ║
+    ║   │      ██║   ██████╔╝    ██║     ███████║██╔██╗ ██║███████╗      │     ║
+    ║   │      ██║   ██╔══██╗    ██║     ██╔══██║██║╚██╗██║╚════██║      │     ║
+    ║   │      ██║   ██████╔╝    ╚██████╗██║  ██║██║ ╚████║███████║      │     ║
+    ║   │      ╚═╝   ╚═════╝      ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝      │     ║
+    ║   │                                                                │     ║
+    ║   │   ordercans.tricorbraun.ca                                     │     ║
+    ║   │   Order management system for packaging solutions              │     ║
+    ║   │                                                                │     ║
+    ║   └────────────────────────────────────────────────────────────────┘     ║
     ║                                                                          ║
     ╚══════════════════════════════════════════════════════════════════════════╝
 ```
@@ -99,11 +99,7 @@
 ## GitHub Stats
 
 <div align="center">
-
-![Rhys's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhysWood&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RhysWood&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=RhysWood&theme=dark&hide_border=true&background=0d1117)
 </div>
 
 ---
