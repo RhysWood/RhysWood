@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ordercans.tricorbraun.ca/
-- 🌱 I’m currently building maintaining ASP.NET API
+- 🌱 I’m currently maintaining ASP.NET API
 - 😄 Pronouns: He/Him
 
 - 📍Location: Vancouver, BC
